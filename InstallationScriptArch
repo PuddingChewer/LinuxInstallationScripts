@@ -1,0 +1,4 @@
+#!/bin/bash
+#Software installation script for Arch-based Linux distributions
+sudo pamac upgrade -a && sudo pamac install firefox signal-desktop steam-manjaro etcher multimc-bin snapd discord spotify-snapstore notepadqq pipewire-pulse pycharm-community-edition qbittorrent bitwarden blender arduino calibre gimp lutris wine winetricks obs-studio vlc tor-browser supercollider 
+read
